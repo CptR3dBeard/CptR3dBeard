@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me ... NA
+- Personal https://cptr3dbeard.github.io/PersonalPage/
 
 <!---
 CptR3dBeard/CptR3dBeard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
