@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CptR3dBeard
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me ... NA
 
