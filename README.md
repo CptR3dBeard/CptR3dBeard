@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CptR3dBeard
-- 👀 I’m interested in Python,HTML,CSS
+- 👀 I’m interested in Python,HTML,CSS and Data Analytics
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me ... lanenash35@gmail.com
 - Personal https://cptr3dbeard.github.io/PersonalPage/
